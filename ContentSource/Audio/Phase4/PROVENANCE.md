@@ -1,0 +1,3 @@
+# Phase 4 authored test audio
+
+All eight WAV files are original offline synthesis from generate_phase4_audio.py (fixed seed 42017). No external samples, microphone input, voice cloning, or purchased assets. 48 kHz / 16-bit PCM. Seven localized mono cues; one quiet stereo room-tone loop. Voice is an unintelligible synthetic exhalation, not final dialogue. Clean variants only in Phase 4; later variants must be authored separately. Audio metadata, not waveform content, drives gameplay. Numeric QA in audio_manifest.json checks finite samples, peak headroom, duration, and loop boundary continuity. Human mix/subjective listening approval remains separate.

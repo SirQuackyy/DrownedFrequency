@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SW_ServiceBell_Clean",
+    "seconds": 5.8,
+    "channels": 1,
+    "peak_db": -9.0,
+    "rms_db": -20.35,
+    "loop": false,
+    "sha256": "14d5e6d1128e8e2c978d155f88a362c07f2625cfeca4f725274128d6e1174e40"
+  },
+  {
+    "name": "SW_Machine_Clean",
+    "seconds": 3.6,
+    "channels": 1,
+    "peak_db": -13.0,
+    "rms_db": -26.34,
+    "loop": false,
+    "sha256": "eb771ae71b3f09458a6d77c5f66c01be75ef5e35e29bd3eabc16c518bde9a22a"
+  },
+  {
+    "name": "SW_Footstep_Clean",
+    "seconds": 0.62,
+    "channels": 1,
+    "peak_db": -15.0,
+    "rms_db": -34.27,
+    "loop": false,
+    "sha256": "0afa3cf617575e0a750047aeaddc0321fb305237d1829f3fb85c0ea6e3d6ea01"
+  },
+  {
+    "name": "SW_Impact_Clean",
+    "seconds": 1.9,
+    "channels": 1,
+    "peak_db": -12.0,
+    "rms_db": -25.71,
+    "loop": false,
+    "sha256": "fd250af14188a35ab7cfe5ed758587798649be24959ab05e30c55fc1d096b059"
+  },
+  {
+    "name": "SW_Water_Clean",
+    "seconds": 3.2,
+    "channels": 1,
+    "peak_db": -14.0,
+    "rms_db": -29.17,
+    "loop": false,
+    "sha256": "01f8af5ff824eda0393ef221bc529aaf4adc421e7809acdbf11fcd7f34bac1d1"
+  },
+  {
+    "name": "SW_Static_Clean",
+    "seconds": 2.4,
+    "channels": 1,
+    "peak_db": -20.0,
+    "rms_db": -36.62,
+    "loop": false,
+    "sha256": "d5c1e5f6519ebedd69e9c541fd52ca51e1fea755482597536cf0d6bbdf9e51e1"
+  },
+  {
+    "name": "SW_Voice_Clean",
+    "seconds": 3.5,
+    "channels": 1,
+    "peak_db": -17.0,
+    "rms_db": -32.4,
+    "loop": false,
+    "sha256": "854aa4398308ccb41bcbcee9441efaf8dfc017101770aaba739f1b477cb1c10d"
+  },
+  {
+    "name": "SW_StationRoomTone",
+    "seconds": 24.0,
+    "channels": 2,
+    "peak_db": -22.0,
+    "rms_db": -34.86,
+    "loop": true,
+    "sha256": "4a59e2a432335f9ba6b585d006f5350637f9a9d429057a13e561a9bdf7bb3476"
+  }
+]

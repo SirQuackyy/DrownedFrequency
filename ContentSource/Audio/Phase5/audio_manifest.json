@@ -1,0 +1,128 @@
+[
+  {
+    "name": "SW_ServiceBell_Degraded",
+    "seconds": 5.8,
+    "channels": 1,
+    "peak_db": -12.0,
+    "rms_db": -23.77,
+    "loop": false,
+    "sha256": "bce721bf77fba319ac4d83d219543ce70f4bdfe3336d352b321c982802f123c9"
+  },
+  {
+    "name": "SW_Voice_Degraded",
+    "seconds": 3.5,
+    "channels": 1,
+    "peak_db": -12.0,
+    "rms_db": -26.77,
+    "loop": false,
+    "sha256": "00473bae293357c3d1d6b8e041e0e7dbf69132783b7630b7a924874648ad6a49"
+  },
+  {
+    "name": "SW_Machine_Degraded",
+    "seconds": 3.6,
+    "channels": 1,
+    "peak_db": -12.0,
+    "rms_db": -23.8,
+    "loop": false,
+    "sha256": "6cdf873c42418ae13c59bc2c132e01bde3886628fdd021cdf958c5bb66a18a12"
+  },
+  {
+    "name": "SW_Footstep_Degraded",
+    "seconds": 0.62,
+    "channels": 1,
+    "peak_db": -12.0,
+    "rms_db": -32.43,
+    "loop": false,
+    "sha256": "af35a89ee2ba06b42764f646ddf2c4cb3de4f505a0846e58641f6f241d4e631b"
+  },
+  {
+    "name": "SW_Water_Degraded",
+    "seconds": 3.2,
+    "channels": 1,
+    "peak_db": -12.0,
+    "rms_db": -26.06,
+    "loop": false,
+    "sha256": "5578ac911f79dae8bac847da6a8a9c6c3d5da49e89029406234cd85773aaf19c"
+  },
+  {
+    "name": "SW_Static_Degraded",
+    "seconds": 2.4,
+    "channels": 1,
+    "peak_db": -12.0,
+    "rms_db": -28.81,
+    "loop": false,
+    "sha256": "300a91612aeda8f7a47e9815396a3661ee93960bbc6e5d479c5e84070fb1d07e"
+  },
+  {
+    "name": "SW_Impact_Degraded",
+    "seconds": 1.9,
+    "channels": 1,
+    "peak_db": -12.0,
+    "rms_db": -25.52,
+    "loop": false,
+    "sha256": "154a9d3b41270256937138db338c0b5881eeb0e750ecff2a770ccd1ffdd1881a"
+  },
+  {
+    "name": "SW_ServiceBell_Contaminated",
+    "seconds": 5.8,
+    "channels": 1,
+    "peak_db": -13.0,
+    "rms_db": -26.51,
+    "loop": false,
+    "sha256": "2fbf1690ed64a48c8cbbc97c0b4199c661143c4c5d11698e5d5a0eb5aefa1921"
+  },
+  {
+    "name": "SW_Voice_Contaminated",
+    "seconds": 3.5,
+    "channels": 1,
+    "peak_db": -13.0,
+    "rms_db": -30.53,
+    "loop": false,
+    "sha256": "93a4cecd418fb379f97b737b935f364af32980f00049bc393192808f07db8b41"
+  },
+  {
+    "name": "SW_Machine_Contaminated",
+    "seconds": 3.6,
+    "channels": 1,
+    "peak_db": -13.0,
+    "rms_db": -25.37,
+    "loop": false,
+    "sha256": "b6c5b1e780b127a0a3b32fa4bd39e814fa740aae0fe25a6af398ef28228f93f4"
+  },
+  {
+    "name": "SW_Footstep_Contaminated",
+    "seconds": 0.62,
+    "channels": 1,
+    "peak_db": -13.0,
+    "rms_db": -32.18,
+    "loop": false,
+    "sha256": "66159b161f9b4964dd4ee4f6bbfc174a7c80e579a6d9a1dc3796030d78f41fb3"
+  },
+  {
+    "name": "SW_Water_Contaminated",
+    "seconds": 3.2,
+    "channels": 1,
+    "peak_db": -13.0,
+    "rms_db": -28.89,
+    "loop": false,
+    "sha256": "02f62469890bf99266f6eae7b12d3b8775344f09db3597685b52afcf9f95adcc"
+  },
+  {
+    "name": "SW_Static_Contaminated",
+    "seconds": 2.4,
+    "channels": 1,
+    "peak_db": -13.0,
+    "rms_db": -30.11,
+    "loop": false,
+    "sha256": "b7776c0e7e8e6f92b96ea7ba70023a6b88cce5dc6952ee227c28b4575f88c843"
+  },
+  {
+    "name": "SW_Impact_Contaminated",
+    "seconds": 1.9,
+    "channels": 1,
+    "peak_db": -13.0,
+    "rms_db": -27.59,
+    "loop": false,
+    "sha256": "593345eec9373ba924ac651f16c27789ebdcbde06e5e65473a329f7cb689e614"
+  }
+]

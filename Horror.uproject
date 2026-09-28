@@ -3,7 +3,18 @@
 	"EngineAssociation": "{6BAD6AFD-458F-6F0C-7D50-9A8467FBBF80}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "DrownedFrequency",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
@@ -13,11 +24,13 @@
 		},
 		{
 			"Name": "ModelContextProtocol",
-			"Enabled": true
+			"Enabled": true,
+			"TargetAllowList": ["Editor"]
 		},
 		{
 			"Name": "AllToolsets",
-			"Enabled": true
+			"Enabled": true,
+			"TargetAllowList": ["Editor"]
 		}
 	]
 }
